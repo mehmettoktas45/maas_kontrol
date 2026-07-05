@@ -9,4 +9,6 @@ Kullanım talimatları ve açıklamalar program içinde mevcuttur.
 
 Maaş-Kontrol-2026-07-03.html veya index.html dosyasını bilgisayarınıza indirerek kullanabilirsiniz. 
 
+Programı test etmek için "Demo BordroDokumu.xlsx" ve "Demo Personel Rapor.xls" dosyalarını kullanabilirsiniz.
+
 Direk Link: https://mehmettoktas45.github.io/maas_kontrol/ 
