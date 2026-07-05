@@ -1,0 +1,390 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+    <!--[if gte mso 9]>
+    <xml>
+        <x:ExcelWorkbook>
+            <x:ExcelWorksheets>
+                <x:ExcelWorksheet>
+                    <x:Name>IKYS Raporu</x:Name>
+                    <x:WorksheetOptions>
+                        <x:Print>
+                            <x:ValidPrinterInfo/>
+                        </x:Print>
+                    </x:WorksheetOptions>
+                </x:ExcelWorksheet>
+            </x:ExcelWorksheets>
+        </x:ExcelWorkbook>
+    </xml>
+    <![endif]-->
+    <style>table, th, td { border: 1px solid black; mso-number-format:"\@"; }</style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>TC Kimlik</th>
+                <th>Personel Tipi</th>
+                <th>Adı Soyadı</th>
+                <th>Hizmet Cetveli Son Satır Unvanı</th>
+                <th>Kadro Unvanı</th>
+                <th>Derece</th>
+                <th>Kademe</th>
+                <th>Ödenilecek Derece/Kademe</th>
+                <th>EK_GOSTERGE</th>
+                <th>Öğrenim Durumu-Okul-Fakülte-Bölüm</th>
+                <th>Bulunduğu Unvana Başlama Tarihi</th>
+                <th>İzin Adı</th>
+                <th>Sendika</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10000000000</td>
+                <td>Memur</td>
+                <td>AHMET YILMAZ</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000001</td>
+                <td>Memur</td>
+                <td>MEHMET DEMİR</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000002</td>
+                <td>Memur</td>
+                <td>AYŞE KAYA</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000003</td>
+                <td>Memur</td>
+                <td>FATMA ÇELİK</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000004</td>
+                <td>Memur</td>
+                <td>MUSTAFA ŞAHİN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000005</td>
+                <td>Memur</td>
+                <td>ZEYNEP YILDIZ</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000006</td>
+                <td>Memur</td>
+                <td>ALİ ÖZTÜRK</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000007</td>
+                <td>Memur</td>
+                <td>EMİNE AYDIN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000008</td>
+                <td>Memur</td>
+                <td>HÜSEYİN ARSLAN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000009</td>
+                <td>Memur</td>
+                <td>HATİCE DOĞAN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000010</td>
+                <td>Memur</td>
+                <td>İBRAHİM KILIÇ</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000011</td>
+                <td>Memur</td>
+                <td>ELİF ÇETİN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000012</td>
+                <td>Memur</td>
+                <td>MURAT KARA</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000013</td>
+                <td>Memur</td>
+                <td>ÖZLEM KOÇ</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000014</td>
+                <td>Memur</td>
+                <td>OSMAN KURT</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000015</td>
+                <td>Memur</td>
+                <td>SİBEL ÖZKAN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000016</td>
+                <td>Memur</td>
+                <td>HAKAN ŞİMŞEK</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000017</td>
+                <td>Memur</td>
+                <td>NURAY POLAT</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000018</td>
+                <td>Memur</td>
+                <td>BURAK CAN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000019</td>
+                <td>Memur</td>
+                <td>ESRA EROĞLU</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000020</td>
+                <td>Memur</td>
+                <td>YASİN AKSOY</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000021</td>
+                <td>Memur</td>
+                <td>GAMZE YAVUZ</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+            <tr>
+                <td>10000000022</td>
+                <td>Memur</td>
+                <td>SERKAN ERDOĞAN</td>
+                <td>Memur</td>
+                <td>Memur</td>
+                <td>9</td>
+                <td>1</td>
+                <td>(9-1)</td>
+                <td>0</td>
+                <td>LİSANS</td>
+                <td>01.01.2023</td>
+                <td></td>
+                <td>VAR</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
