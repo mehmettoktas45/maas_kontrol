@@ -7,8 +7,10 @@ Maaş unsurlarındaki hataların tespiti amacıyla hazırlanmıştır.
 
 Kullanım talimatları ve açıklamalar program içinde mevcuttur. 
 
-Maaş-Kontrol-2026-07-03.html veya index.html dosyasını bilgisayarınıza indirerek kullanabilirsiniz. 
+Maaş-Kontrol-2026-09-08.html veya index.html dosyasını bilgisayarınıza indirerek kullanabilirsiniz. 
 
 Programı test etmek için "Demo Bordro Dokumu.xlsx" ve "Demo Personel Rapor.xls" dosyalarını kullanabilirsiniz.
+Demo dosyalar Maaş-Kontrol-2026-07-03.html ve öncesi için düzenlenmiştir.
+Maaş-Kontrol-2026-09-08.html dosyası ile çalışacak demo dosyası düzenlenmemiştir.
 
 Direk Link: https://mehmettoktas45.github.io/maas_kontrol/ 
