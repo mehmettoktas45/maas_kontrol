@@ -25,16 +25,16 @@
             <tr>
                 <th>TC Kimlik</th>
                 <th>Personel Tipi</th>
-                <th>Ad˝ Soyad˝</th>
-                <th>Hizmet Cetveli Son Sat˝r Unvan˝</th>
-                <th>Kadro Unvan˝</th>
+                <th>Ad√Ω Soyad√Ω</th>
+                <th>Hizmet Cetveli Son Sat√Ωr Unvan√Ω</th>
+                <th>Kadro Unvan√Ω</th>
                 <th>Derece</th>
                 <th>Kademe</th>
-                <th>÷denilecek Derece/Kademe</th>
+                <th>√ñdenilecek Derece/Kademe</th>
                 <th>EK_GOSTERGE</th>
-                <th>÷renim Durumu-Okul-Fak¸lte-Bˆl¸m</th>
-                <th>Bulunduu Unvana Ba˛lama Tarihi</th>
-                <th>›zin Ad˝</th>
+                <th>√ñ√∞renim Durumu-Okul-Fak√ºlte-B√∂l√ºm</th>
+                <th>Bulundu√∞u Unvana Ba√ælama Tarihi</th>
+                <th>√ùzin Ad√Ω</th>
                 <th>Sendika</th>
             </tr>
         </thead>
@@ -49,7 +49,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -57,14 +57,14 @@
             <tr>
                 <td>10000000001</td>
                 <td>Memur</td>
-                <td>MEHMET DEM›R</td>
+                <td>MEHMET DEM√ùR</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -72,14 +72,14 @@
             <tr>
                 <td>10000000002</td>
                 <td>Memur</td>
-                <td>AYﬁE KAYA</td>
+                <td>AY√ûE KAYA</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -87,14 +87,14 @@
             <tr>
                 <td>10000000003</td>
                 <td>Memur</td>
-                <td>FATMA «EL›K</td>
+                <td>FATMA √áEL√ùK</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -102,14 +102,14 @@
             <tr>
                 <td>10000000004</td>
                 <td>Memur</td>
-                <td>MUSTAFA ﬁAH›N</td>
+                <td>MUSTAFA √ûAH√ùN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -124,7 +124,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -132,14 +132,14 @@
             <tr>
                 <td>10000000006</td>
                 <td>Memur</td>
-                <td>AL› ÷ZT‹RK</td>
+                <td>AL√ù √ñZT√úRK</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -147,14 +147,14 @@
             <tr>
                 <td>10000000007</td>
                 <td>Memur</td>
-                <td>EM›NE AYDIN</td>
+                <td>EM√ùNE AYDIN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -162,14 +162,14 @@
             <tr>
                 <td>10000000008</td>
                 <td>Memur</td>
-                <td>H‹SEY›N ARSLAN</td>
+                <td>H√úSEY√ùN ARSLAN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -177,14 +177,14 @@
             <tr>
                 <td>10000000009</td>
                 <td>Memur</td>
-                <td>HAT›CE DO–AN</td>
+                <td>HAT√ùCE DO√êAN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -192,14 +192,14 @@
             <tr>
                 <td>10000000010</td>
                 <td>Memur</td>
-                <td>›BRAH›M KILI«</td>
+                <td>√ùBRAH√ùM KILI√á</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -207,14 +207,14 @@
             <tr>
                 <td>10000000011</td>
                 <td>Memur</td>
-                <td>EL›F «ET›N</td>
+                <td>EL√ùF √áET√ùN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -229,7 +229,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -237,14 +237,14 @@
             <tr>
                 <td>10000000013</td>
                 <td>Memur</td>
-                <td>÷ZLEM KO«</td>
+                <td>√ñZLEM KO√á</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -259,7 +259,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -267,14 +267,14 @@
             <tr>
                 <td>10000000015</td>
                 <td>Memur</td>
-                <td>S›BEL ÷ZKAN</td>
+                <td>S√ùBEL √ñZKAN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -282,14 +282,14 @@
             <tr>
                 <td>10000000016</td>
                 <td>Memur</td>
-                <td>HAKAN ﬁ›MﬁEK</td>
+                <td>HAKAN √û√ùM√ûEK</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -304,7 +304,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -319,7 +319,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -327,14 +327,14 @@
             <tr>
                 <td>10000000019</td>
                 <td>Memur</td>
-                <td>ESRA ERO–LU</td>
+                <td>ESRA ERO√êLU</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -342,14 +342,14 @@
             <tr>
                 <td>10000000020</td>
                 <td>Memur</td>
-                <td>YAS›N AKSOY</td>
+                <td>YAS√ùN AKSOY</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -364,7 +364,7 @@
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
@@ -372,14 +372,14 @@
             <tr>
                 <td>10000000022</td>
                 <td>Memur</td>
-                <td>SERKAN ERDO–AN</td>
+                <td>SERKAN ERDO√êAN</td>
                 <td>Memur</td>
                 <td>Memur</td>
                 <td>9</td>
                 <td>1</td>
                 <td>(9-1)</td>
                 <td>0</td>
-                <td>L›SANS</td>
+                <td>L√ùSANS</td>
                 <td>01.01.2023</td>
                 <td></td>
                 <td>VAR</td>
